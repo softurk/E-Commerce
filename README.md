@@ -1,9 +1,6 @@
 # E-Commerce
 Takı Art 
 
-
-E-commerce Site 
-
 -Spring Boot(1.4.2)
 -Spring Security
 -Spring MVC
